@@ -1,3 +1,6 @@
+# Soon Rework!
+## Im going to make a Rework soon! This is very old, where i didnt knew to code with Python.
+
 # AutoOfflinePy
 Shutdowns your PC after specified Time. Python Version of AutoOffline.
 
